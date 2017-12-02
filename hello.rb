@@ -8,10 +8,6 @@ gift = [
           "a visual prosthesis",
          ]
          
-        # mySimpleGift = 'a single string'
-     
-        # puts mySimpleGift
-         
   puts "All I got for valentine's day was #{gift.sample}."
   
   puts "something"
